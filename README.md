@@ -1,7 +1,7 @@
-# 💻 ProgramaC++
+# 💻 Programa de suma en C++
 
 <p align="center">
-  <strong>Ejercicios introductorios de programación con C++ y HTML.</strong>
+  <strong>Ejercicio introductorio de programación con C++.</strong>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Estado-Funcional-success?style=for-the-badge" alt="Estado funcional" />
 </p>
 
-Repositorio de prácticas básicas para reforzar fundamentos de programación mediante un programa de consola en **C++** y una plantilla de interfaz web en **HTML, CSS y JavaScript**.
+Repositorio de prácticas básicas para reforzar fundamentos de programación mediante un programa de consola en **C++**.
 
 ---
 
@@ -37,8 +37,6 @@ Repositorio de prácticas básicas para reforzar fundamentos de programación me
 2. Identificar si un número es par o impar.
 3. Finalizar la ejecución.
 
-El repositorio también incluye `archivo.html`, una plantilla independiente de un acordeón interactivo desarrollada con HTML, CSS y JavaScript para practicar la creación de interfaces web sencillas.
-
 ## ✨ Características
 
 - Menú interactivo en consola.
@@ -46,7 +44,6 @@ El repositorio también incluye `archivo.html`, una plantilla independiente de u
 - Verificación de números pares e impares con el operador módulo.
 - Uso de una estructura de selección múltiple con `switch`.
 - Lectura de datos desde la entrada estándar.
-- Interfaz HTML de acordeón con contenido expandible y contraíble.
 - Código introductorio con comentarios explicativos.
 
 ## 🛠️ Tecnologías utilizadas
@@ -56,9 +53,6 @@ El repositorio también incluye `archivo.html`, una plantilla independiente de u
 | **C++** | Desarrollo del programa de consola. |
 | **`iostream`** | Lectura y escritura de datos en la terminal. |
 | **`cmath` / `math.h`** | Cálculo del cubo mediante `pow()`. |
-| **HTML5** | Estructura de la plantilla web. |
-| **CSS3** | Estilos, distribución y apariencia visual. |
-| **JavaScript** | Comportamiento interactivo del acordeón. |
 | **Git** | Control de versiones. |
 
 ## 📁 Estructura del proyecto
@@ -66,14 +60,12 @@ El repositorio también incluye `archivo.html`, una plantilla independiente de u
 ```text
 ProgramaC/
 ├── Estructurascondicionales-Unmenu.cpp  # Menú y ejercicios en C++
-├── archivo.html                         # Plantilla de acordeón interactivo
 └── README.md                            # Documentación del proyecto
 ```
 
 ### 📄 Archivos principales
 
 - **`Estructurascondicionales-Unmenu.cpp`**: contiene la función `main`, el menú de opciones y la lógica para calcular el cubo o determinar la paridad de un número.
-- **`archivo.html`**: incluye un acordeón básico con estilos CSS y un controlador JavaScript para mostrar u ocultar su contenido.
 
 ## ✅ Requisitos previos
 
@@ -88,8 +80,6 @@ Para comprobar que `g++` está instalado:
 ```bash
 g++ --version
 ```
-
-Para visualizar la plantilla web, solo necesitas un navegador moderno.
 
 ## 📥 Instalación
 
@@ -121,10 +111,6 @@ En Windows, el ejecutable puede iniciarse con:
 ```powershell
 programa.exe
 ```
-
-### Abrir la interfaz HTML
-
-Abre `archivo.html` directamente en el navegador o utiliza la opción **Abrir con...** de tu sistema operativo. Selecciona el encabezado **“Título del acordeón”** para mostrar u ocultar el contenido.
 
 ## 🧪 Ejemplo de ejecución
 
@@ -158,16 +144,19 @@ El numero es impar.
 - Estructuras `switch`, `case` e `if/else`.
 - Operadores aritméticos y operador módulo `%`.
 - Funciones matemáticas con `pow()`.
-- Estructura semántica básica de una página HTML.
-- Selectores y estilos CSS.
-- Manipulación del DOM y eventos `click` con JavaScript.
 
 ## 👤 Autor
 
 Desarrollado por **Mario Si3ri**.
 
-- GitHub: [@MarioSi3ri](https://github.com/MarioSi3ri)
+- GitHub: [@ProgramaC++](https://github.com/MarioSi3ri/ProgramaC)
 
 ## 📄 Licencia
 
-Este proyecto se publica con fines académicos y de aprendizaje. Si deseas reutilizarlo, puedes consultar o solicitar al autor las condiciones de uso correspondientes.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
+
+---
+
+<p align="center">
+  Desarrollado con el lenguaje C++ como proyecto de aprendizaje e inicial de programación.
+</p>
