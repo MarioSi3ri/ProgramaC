@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-11%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 11 o superior" />
-  <img src="https://img.shields.io/badge/HTML5-Interfaz-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Tipo-Académico-informational?style=for-the-badge" alt="Proyecto académico" />
   <img src="https://img.shields.io/badge/Estado-Funcional-success?style=for-the-badge" alt="Estado funcional" />
 </p>
@@ -149,7 +148,7 @@ El numero es impar.
 
 Desarrollado por **Mario Si3ri**.
 
-- GitHub: [@ProgramaC++](https://github.com/MarioSi3ri/ProgramaC)
+- Repositorio: [ProgramaC++](https://github.com/MarioSi3ri/ProgramaC)
 
 ## 📄 Licencia
 
