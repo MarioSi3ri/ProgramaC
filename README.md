@@ -149,6 +149,7 @@ El numero es impar.
 Desarrollado por **MarioSi3ri**.
 
 - Repositorio: [ProgramaC++](https://github.com/MarioSi3ri/ProgramaC)
+- Copilot ayudó a mejorar el presente archivo README.
 
 ## 📄 Licencia
 
