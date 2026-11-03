@@ -1,4 +1,4 @@
-# 💻 Programa de suma en C++
+# 💻 Programa C++
 
 <p align="center">
   <strong>Ejercicio introductorio de programación con C++.</strong>
@@ -146,7 +146,7 @@ El numero es impar.
 
 ## 👤 Autor
 
-Desarrollado por **Mario Si3ri**.
+Desarrollado por **MarioSi3ri**.
 
 - Repositorio: [ProgramaC++](https://github.com/MarioSi3ri/ProgramaC)
 
